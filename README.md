@@ -1,6 +1,6 @@
 # Catlike Coding Unity tutorials
 
-My unity project following Catlike Coding's awesome tutorial at [https://catlikecoding.com/unity/tutorials/](https://catlikecoding.com/unity/tutorials/)
+My unity projects following Catlike Coding's awesome tutorial at [https://catlikecoding.com/unity/tutorials/](https://catlikecoding.com/unity/tutorials/)
 
 ## TODO LIST
 ### **Basics**
