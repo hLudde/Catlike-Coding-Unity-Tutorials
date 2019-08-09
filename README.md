@@ -6,7 +6,7 @@ My unity project following Catlike Coding's awesome tutorial at [https://catlike
 ### **Basics**
 
 - [X] 1.1 - Game Objects and Scripts
-- [ ] 1.2 - Building a Graph
+- [X] 1.2 - Building a Graph
 - [ ] 1.3 - Mathematical Surfaces
 - [ ] 1.4 - Constructing a Fractal
 - [ ] 1.5 - Frames Per Second
