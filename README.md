@@ -9,7 +9,8 @@ My unity projects following Catlike Coding's awesome tutorial at [https://catlik
 ![Preview of clock in both continuous mode and uncontinuous mode](gifs/clock.gif)
 - [X] 1.2 - Building a Graph
 ![Preview of a sine graph](gifs/graph.gif)
-- [ ] 1.3 - Mathematical Surfaces
+- [X] 1.3 - Mathematical Surfaces
+![Preview of different mathematical surfaces](gifs/surfaces.gif)
 - [ ] 1.4 - Constructing a Fractal
 - [ ] 1.5 - Frames Per Second
 
