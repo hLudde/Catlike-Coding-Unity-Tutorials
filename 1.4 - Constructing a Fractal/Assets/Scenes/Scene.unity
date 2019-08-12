@@ -166,8 +166,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxDepth: 6
   maxRotationSpeed: 50
-  maxTwist: 40
-  spawnProbability: 0.573
+  maxTwist: 30
+  spawnProbability: 0.786
   childScale: 0.5
   material: {fileID: 2100000, guid: bcdf5f1198706f941a5afb8bf9ff86f3, type: 2}
   meshes:
