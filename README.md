@@ -11,7 +11,8 @@ My unity projects following Catlike Coding's awesome tutorial at [https://catlik
 ![Preview of a sine graph](gifs/graph.gif)
 - [X] 1.3 - Mathematical Surfaces
 ![Preview of different mathematical surfaces](gifs/surfaces.gif)
-- [ ] 1.4 - Constructing a Fractal
+- [X] 1.4 - Constructing a Fractal
+![Preview of two fractals](gifs/fractals.gif)
 - [ ] 1.5 - Frames Per Second
 
 ### **Object Management**
