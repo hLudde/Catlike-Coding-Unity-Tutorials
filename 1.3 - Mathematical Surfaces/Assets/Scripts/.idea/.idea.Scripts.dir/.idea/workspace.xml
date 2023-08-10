@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8835db13-44cf-4ea2-a102-0127e741ad1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Material/Colored Point.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Material/Colored Point.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Prefabs/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Prefabs/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Scenes/Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Scripts/Graph.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Scripts/Graph.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Shaders/ColoredPoint.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/Assets/Shaders/ColoredPoint.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1.2 - Building a Graph/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material/Colored Point.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material/Colored Point.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Graph.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphFunction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphFunction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphFunctionName.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphFunctionName.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shaders/ColoredPoint.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shaders/ColoredPoint.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gifs/graph.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gifs/graph.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2TnFumiyGt1sBLmqp21Be0jurZD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\hansl\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\hansl\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\hansl\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8835db13-44cf-4ea2-a102-0127e741ad1c" name="Changes" comment="" />
+      <created>1691671164421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691671164421</updated>
+      <workItem from="1691671165571" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
